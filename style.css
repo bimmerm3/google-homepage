@@ -1,0 +1,17 @@
+* {
+    text-align: center;
+}
+
+.logo {
+    height: 92px;
+    width: 272px; 
+    align-self: center;
+}
+
+.searchtext {
+    width: 550px; 
+}
+
+.button  {
+    width: 275px;
+}
